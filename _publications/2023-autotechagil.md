@@ -31,4 +31,4 @@ paperurl: 'https://publications.rwth-aachen.de/record/971700'
 citation: 'van Kempen, R. et al. (2023). &quot;AUTOtech.agil: Architecture and Technologies for Orchestrating Automotive Agility.&quot; <i>32nd Aachen Colloquium Sustainable Mobility 2023</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
