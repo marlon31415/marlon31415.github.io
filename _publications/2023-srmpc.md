@@ -2,7 +2,14 @@
 title: "Safety Reinforced Model Predictive Control (SRMPC): Improving MPC with Reinforcement Learning for Motion Planning in Autonomous Driving"
 collection: publications
 permalink: /publication/2023-srmpc
-excerpt: 'Model predictive control (MPC) is widely used for motion planning, particularly in autonomous driving. Real-time capability of the planner requires utilizing convex approximation of optimal control problems (OCPs) for the planner. However, such approximations confine the solution to a subspace, which might not contain the global optimum. To address this, we propose using safe reinforcement learning (SRL) to obtain a new and safe reference trajectory within MPC. By employing a learning-based approach, the MPC can explore solutions beyond the close neighborhood of the previous one, potentially finding global optima. We incorporate constrained reinforcement learning (CRL) to ensure safety in automated driving, using a handcrafted energy function-based safety index as the constraint objective to model safe and unsafe regions. Our approach utilizes a state-dependent Lagrangian multiplier, learned concurrently with the safe policy, to solve the CRL problem. Through experimentation in a highway scenario, we demonstrate the superiority of our approach over both MPC and SRL in terms of safety and performance measures.'
+excerpt: 'Model predictive control (MPC) is widely used for motion planning, particularly in autonomous driving. 
+Real-time capability of the planner requires utilizing convex approximation of optimal control problems (OCPs) for the planner. 
+However, such approximations confine the solution to a subspace, which might not contain the global optimum. 
+To address this, we propose using safe reinforcement learning (SRL) to obtain a new and safe reference trajectory within MPC. 
+By employing a learning-based approach, the MPC can explore solutions beyond the close neighborhood of the previous one, potentially finding global optima. 
+We incorporate constrained reinforcement learning (CRL) to ensure safety in automated driving, using a handcrafted energy function-based safety index as the constraint objective to model safe and unsafe regions. 
+Our approach utilizes a state-dependent Lagrangian multiplier, learned concurrently with the safe policy, to solve the CRL problem. 
+Through experimentation in a highway scenario, we demonstrate the superiority of our approach over both MPC and SRL in terms of safety and performance measures.'
 date: 2023-09-24
 venue: 'IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)'
 paperurl: 'https://doi.org/10.1109/ITSC57777.2023.10422605'
