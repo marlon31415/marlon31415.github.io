@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* PhD in Motion Planning for Autonomous Driving, Karlsruhe Institute of Technology, 2027 (expected) \\
+  <!-- Fields of Research:  -->
+* M.S. in Mechanical Engineering, Ruhr-University Bochum (RUB), 2023 \\
+  <!-- Fields of study:  \\
+  Masters Thesis: “” \\
+  Final Grade 1.2 - Graduated with Distinction -->
+* B.S. in Mechanical Engineering, Ruhr-University Bochum (RUB), 2021 \\
+  <!-- Fields of study:  \\
+  Bachelors Thesis: “” \\
+  Final Grade 1.2 - Graduated with Distinction -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work experience
+* 2019 - 2023: Research Assistant
+  * Chair of Industrial and Automotive Drive Technology (RUB)
+  * Supervisor: Prof. Dr.-Ing. Peter Tenberge
+  * Duties includes: E-bike drive train research/construction, test bench construction, testing, CAD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Research Assistant
+  * Institute of Mechanics of Materials (RUB)
+  * Duties included: Teaching Technical Mechanics
+  <!-- * Supervisor: Professor Hub -->
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
-======
+<!-- ## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+<!-- ## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
