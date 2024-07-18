@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD in Motion Planning for Autonomous Driving, Karlsruhe Institute of Technology, 2027 (expected) \\
+* PhD in Motion Planning for Autonomous Driving, Karlsruhe Institute of Technology (KIT), 2027 (expected) \\
   <!-- Fields of Research:  -->
 * M.S. in Mechanical Engineering, Ruhr-University Bochum (RUB), 2023 \\
   <!-- Fields of study:  \\
@@ -22,6 +22,11 @@ redirect_from:
   Final Grade 1.2 - Graduated with Distinction -->
 
 ## Work experience
+* 2023 - now: PhD Student
+  * Institute of Measurement and Control Systems (MRT), Karlsruhe Institute of Technology (KIT)
+  * Head of Institute: Prof. Dr.-Ing. Christoph Stiller
+  * Fields of Research: Motion Planning and Prediction for Autonomous Driving
+
 * 2019 - 2023: Research Assistant
   * Chair of Industrial and Automotive Drive Technology (RUB)
   * Supervisor: Prof. Dr.-Ing. Peter Tenberge
