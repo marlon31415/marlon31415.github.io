@@ -3,7 +3,7 @@ title: "Probabilistic Measurement Technology and Estimation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/mt2
-venue: "Karlruhe Institute of Technology, Institute of Measurement and Control Systems"
+venue: "Karlsruhe Institute of Technology, Institute of Measurement and Control Systems"
 date: 2023-05-01
 location: "Karlsruhe, Germany"
 ---
